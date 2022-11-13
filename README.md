@@ -113,7 +113,7 @@ _Francisco Jesús Da Silva Arana_
 Confirma los cambios en README.md
 <br/>![](/IMG/cambios.png)<br/><br/>
 Sube los cambios que has hecho en local al repositorio en GitHub.
-
+<br/>![](/IMG/push.png)<br/><br/>
 ---
 
 ### <a id ="p2"><a/> **SEGUNDA PARTE: BIFURCAR UN REPOSITORIO**
